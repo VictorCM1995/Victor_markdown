@@ -16,3 +16,17 @@ CompañeroA|CampañeroB
 Victor|Cuevas
 
 [GitHub](https://github.com/)
+
+#TAREA DE RAMAS
+1. Crear nueva rama. git branch Victor
+	Posicionarme. git checkout Victor
+2. Añadir fichero de despliegue.md y hacer commit desde esa rama
+	Subir cambios a la rama. git push origin Victor
+3. Fusionar rama. git merge Victor master (Usar antes: git diff Victor master)
+4. Desde master hacer cambios y comentarlo.
+	Desde Victor hacer cambios y comentarlo.
+	Fusionar ramas. git merger Victor master(Resultado: Conflicto)
+5. Añadir el archivo y realizar commit para resolver el conflicto
+6. Crear tag. git tag v0.2
+	Borrar rama. git branch -d Victor
+7. Todo realizado.
