@@ -7,3 +7,6 @@
 6. Crear archivo .gitignore, añadirlo, comentarlo y añadir los datos anteriores
 	Para ver los ignorados pon git status --ignored
 	Esto debe hacerse antes de crear los archivos
+7. Creamos un fichero nuevo, lo editamos, lo añadimos al git y lo comentamos.
+8. Creamos un tag con git tag v0.1
+9. Subimos los cambios con git push origin master (Nos pedira credenciales)
