@@ -17,7 +17,7 @@ Victor|Cuevas
 
 [GitHub](https://github.com/)
 
-#TAREA DE RAMAS
+# TAREA DE RAMAS
 1. Crear nueva rama. git branch Victor
 	Posicionarme. git checkout Victor
 2. Añadir fichero de despliegue.md y hacer commit desde esa rama
