@@ -1,5 +1,6 @@
 1. Crear repositorio
-[IMAGEN 1](1.jpg)
+[IMAGEN 1A](1.jpg)
+[IMAGEN 1B](1.JPG)
 
 2. Clonar repositorio usando git clone https://github.com/VictorCM1995/Victor_markdown.git
 ![Imagen 2](2.jpg)
