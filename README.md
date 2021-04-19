@@ -30,3 +30,6 @@
 
 10. Crear tag con git tag v0.1
 ![Imagen 10](10.JPG)
+
+11. Subir cambios del tag anterior
+![Imagen 11](11.jpg)
