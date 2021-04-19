@@ -9,9 +9,9 @@
 ![Imagen 3](3.JPG)
 
 4. Añadir al README.md los comandos utilizados hasta ahora y commit inicial añadido usando git commit -m "Primer commit de Victor"
-![Imagen 41](E:\DAW2\ReDAW\4.jpg)
-![Imagen 42](E:\DAW2\ReDAW\42.jpg)
-![Imagen 43](E:\DAW2\ReDAW\43.jpg)
+![Imagen 41](4.JPG)
+![Imagen 42](42.JPG)
+![Imagen 43](43.JPG)
 
 5. Cambios subidos con git push origin master
 ![Imagen 5](5.JPG)
