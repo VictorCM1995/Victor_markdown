@@ -1,5 +1,5 @@
 1. Crear repositorio
-![Imagen1A](1.jpg)
+![Imagen1A](https://estaticos.muyinteresante.es/uploads/images/gallery/594a1ced5bafe85dfd3c9869/gato-romano-redes.jpg)
 ![Imagen1B](E:/DAW2/ReDAW/1.jpg)
 
 2. Clonar repositorio usando git clone https://github.com/VictorCM1995/Victor_markdown.git
