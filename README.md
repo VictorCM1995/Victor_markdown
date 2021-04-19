@@ -1,4 +1,4 @@
-1. Crear repositorio
+1. Crear un repositorio
 [IMAGEN 1A](1.jpg)
 [IMAGEN 1B](1.JPG)
 
