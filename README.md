@@ -11,4 +11,4 @@
 4. Añadir al README.md los comandos utilizados hasta ahora y commit inicial añadido usando git commit -m "Primer commit de Victor"
 ![Imagen41](E:/DAW2/ReDAW/4.jpg)
 ![Imagen42](E:/DAW2/ReDAW/42.jpg)
-![Imagen43](E:/DAW2/ReDAW/42.jpg)
+![Imagen43](E:/DAW2/ReDAW/43.png)
