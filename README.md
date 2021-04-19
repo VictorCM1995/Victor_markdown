@@ -1,8 +1,8 @@
 1. Crear un repositorio
-[IMAGEN 1](1.jpg)
+![Imagen 2](1.jpg)
 
 2. Clonar repositorio usando git clone https://github.com/VictorCM1995/Victor_markdown.git
-![Imagen 2](2.jpg)
+
 
 3. Archivo y carpeta creados en el repositorio local
 ![Imagen 3](3.JPG)
