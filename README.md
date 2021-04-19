@@ -24,6 +24,9 @@
 ![Imagen 72](72.JPG)
 ![Imagen 73](73.JPG)
 
-8. RESUMEN
+8. RESUMEN (mira las imagenes anteriores)
 9. Fichero victor.md con lista de modulos
 ![Imagen 9](9.JPG)
+
+10. Crear tag con git tag v0.1
+![Imagen 10](10.JPG)
