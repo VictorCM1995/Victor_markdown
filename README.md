@@ -8,7 +8,6 @@
 ![Imagen 3](3.JPG)
 
 4. Añadir al README.md los comandos utilizados hasta ahora y commit inicial añadido usando git commit -m "Primer commit de Victor"
-<<<<<<< HEAD
 ![Imagen 41](E:\DAW2\ReDAW\4.jpg)
 ![Imagen 42](E:\DAW2\ReDAW\42.jpg)
 ![Imagen 43](E:\DAW2\ReDAW\43.jpg)
@@ -33,3 +32,10 @@
 
 11. Subir cambios del tag anterior
 ![Imagen 11](11.jpg)
+
+12. RESUMEN (mira los imagenes de la 9 a la 11)
+13. CREAR TABLA
+
+Persona A | Persona B
+--|--
+Victor | Leonardo
