@@ -1,13 +1,13 @@
 1. Crear repositorio
-![ERROR1](uno.jpg)
+![Imagen1](file:///E:/DAW2/ReDAW/uno.jpg)
 
 2. Clonar repositorio usando git clone https://github.com/VictorCM1995/Victor_markdown.git
-![Imagen2](2.jpg)
+![Imagen 2](2.jpg)
 
 3. Archivo y carpeta creados en el repositorio local
-![Imagen3](3.jpg)
+![Imagen 3](3.jpg)
 
 4. Añadir al README.md los comandos utilizados hasta ahora y commit inicial añadido usando git commit -m "Primer commit de Victor"
-![Imagen41](4.jpg)
-![Imagen42](42.jpg)
-![Imagen43](43.png)
+![Imagen 41](4.jpg)
+![Imagen 42](42.jpg)
+![Imagen 43](43.png)
