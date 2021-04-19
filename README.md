@@ -23,5 +23,6 @@
 ![Imagen 72](72.JPG)
 ![Imagen 73](73.JPG)
 
+8. RESUMEN
 9. Fichero victor.md con lista de modulos
 ![Imagen 9](9.JPG)
