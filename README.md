@@ -1,5 +1,5 @@
 1. Crear repositorio
-![Imagen1](E:/DAW2/ReDAW/1.jpg)
+![Imagen1](https://s1.eestatic.com/2020/05/18/como/gatos-mascotas-trucos_490961518_152142875_1706x960.jpg)
 
 2. Clonar repositorio usando git clone https://github.com/VictorCM1995/Victor_markdown.git
 ![Imagen2](E:/DAW2/ReDAW/2.jpg)
