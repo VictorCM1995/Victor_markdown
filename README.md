@@ -1,5 +1,5 @@
 1. Crear repositorio
-![ERROR1](C:\Users\Angel\Desktop\victor\DAW2\ReDAW\uno.jpg)
+![ERROR1](C:/Users/Angel/Desktop/victor/DAW2/ReDAW/uno.jpg)
 
 2. Clonar repositorio usando git clone https://github.com/VictorCM1995/Victor_markdown.git
 ![Imagen2](E:/DAW2/ReDAW/2.jpg)
