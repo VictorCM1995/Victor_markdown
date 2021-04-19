@@ -11,3 +11,14 @@
 ![Imagen 41](4.JPG)
 ![Imagen 42](42.JPG)
 ![Imagen 43](43.JPG)
+
+5. Cambios subidos con git push origin master
+![Imagen 5](5.JPG)
+
+6. Crear fichero y archivo de manera manual sin subirlos
+![Imagen 6](6.JPG)
+
+7. Ignorarlos con un nuevo fichero nano .gitignore
+![Imagen 71](71.JPG)
+![Imagen 72](72.JPG)
+![Imagen 73](73.JPG)
