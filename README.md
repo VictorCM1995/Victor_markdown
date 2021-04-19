@@ -1,5 +1,6 @@
 1. Crear repositorio
-![Imagen1](E:\DAW2\ReDAW\1.jpg)
+![Imagen1A](E:\DAW2\ReDAW\1.jpg)
+|[Imagen1B](file:///E:/DAW2/ReDAW/1.jpg)
 
 2. Clonar repositorio usando git clone https://github.com/VictorCM1995/Victor_markdown.git
 ![Imagen2](E:/DAW2/ReDAW/2.jpg)
