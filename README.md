@@ -92,6 +92,5 @@ Victor | Leonardo
 ![Imagen 16](B16.JPG)
 
 17. RESUMEN mira las imagenes anteriores
-
-18.
-19.
+18. Cambios realizados con commit
+![Imagen 18](B18.JPG)
