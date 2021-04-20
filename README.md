@@ -41,3 +41,57 @@ Persona A | Persona B
 Victor | Leonardo
 
 [Enlace a repositorio](https://github.com/VictorCM1995/Victor_markdown.git)
+
+# MARKDOWN 3
+1. Crear rama Victor con git branch Victor
+![Imagen 1](B1.JPG)
+
+2. Posicionamiento con git checkout Victor
+![Imagen 2](B2.JPG)
+
+3. Crear despliegue.md
+![Imagen 3](B3.JPG)
+
+4. Commit de despliegue.md
+![Imagen 4](B4.JPG)
+
+5. Subir cambios con git push origin Victor
+![Imagen 5](B5.JPG)
+
+6. Posicionamiento con git checkout master
+![Imagen 6](B6.JPG)
+
+7. Fusionar con git merge Victor master
+![Imagen 7](B7.JPG)
+
+8. Modificar en master despliegue.md
+![Imagen 8](B8.JPG)
+
+9. Commit desde master
+![Imagen 9](B9.JPG)
+
+10. Posicionamiento con git checkout Victor
+![Imagen 10](B10.JPG)
+
+11. Modificar en Victor despliegue.md
+![Imagen 11](B11.JPG)
+
+12. Commit desde Victor
+![Imagen 12](B12.JPG)
+
+13. Posicionamiento con git checkout master y Fusion git merge Victor master (Salta el conflicto)
+![Imagen 13](B13.JPG)
+
+14. Arreglo
+![Imagen 14](B14.JPG)
+
+15. Crear tag con git tag v0.2
+![Imagen 15](B15.JPG)
+
+16. Borrar rama Victor con git branch -d Victor
+![Imagen 16](B16.JPG)
+
+17. RESUMEN mira las imagenes anteriores
+
+18.
+19.
